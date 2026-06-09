@@ -4,6 +4,14 @@
     <title>BuildDistributor</title>
     <description>BuildDistributor release feed.</description>
     <item>
+      <title>Version 1.1.3</title>
+      <pubDate>Tue, 09 Jun 2026 14:12:30 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/framna-se/build-distributor-releases/releases/download/v1.1.3/BuildDistributor-1.1.3.dmg" sparkle:edSignature="L8ycNd07hWftpZ+q1TnbAx3kanmRSf+LI3AJatWrBprcujnK16bioAjIPeUxfpgiVa5dr66IOoOLzfFR7aaJDA==" length="7725870" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1.2</title>
       <pubDate>Fri, 05 Jun 2026 11:30:42 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
